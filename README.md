@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gotonraja
+- 👀 I’m interested in Embbedded systems, IOT, AI, ML and related technologies
+- 🌱 I’m currently learning Fullstack basic and data analysis with python
+- 💞️ I’m looking to collaborate on nothing at the moment
